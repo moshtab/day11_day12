@@ -1,8 +1,8 @@
 # day11_day12
 
-5)DeckCards :-
+DeckCards :-
 
-   Distribute !0 random cards between 4 player
+   Distribute 10 random cards between 4 player
    
    Created a distribute method();
    
